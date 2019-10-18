@@ -3,6 +3,15 @@
 ## Algorithms
 
 *  [Essential Algorithms: A Practical Approach to Computer Algorithms by John Wiley & Sons - 2013](/Books/Algorithms-EssentialAlgorithms.pdf) 
+* [Data Structures & Algorithms in Python by Michael Goodrich, *et al* - 2013](/Books/Algorithms-DataStructuresandAlgorithms.pdf)
+
+
+
+## API
+
+* [API Design Guide - 2017](/Books/API-APIDesignGuide.pdf)
+* [REST API Design Rulebook by Mark Massé - 2011](/Books/API-RESTAPDesignRulebook.pdf)
+
 
 
 
@@ -82,11 +91,19 @@
 
 
 
+## Linux
+
+* [How Linux Works: What Every SuperUser Should Know by Brian Ward - 2015](/Books/Linux-HowLinuxWorks.pdf)
+
+
+
+
 ## Microservices
 
 * [How we broke up our Monolithic Django Service into Microservices - Medium](/Articles/Microservices-DjangoMicroservices.pdf)
 * [Microservice Architecture and Design Patterns for Microservices - Medium](/Articles/Microservices-MicroserviceArchitectureandDesignPatterns.pdf)
 * [Microservice Architecture at Medium - Medium](/Articles/Microservices-MicroserviceArchitectureatMedium.pdf)
+* [Building Microservices by Sam Newman - 2015](/Books/Microservices-BuildingMicroservices.pdf)
 
 
 
@@ -107,6 +124,9 @@
 
 ## Python
 
+* [Automate the Boring Stuf with Python by Al Sweigart - 2015(/Books/Python-AutomatetheBoringStuffwithPython.pdf)
+* [Fluent Python by Luciano Ramalho - 2016](/Books/Python-FluentPython.pdf)
+* [Illustrated Guide to Python 3 by Matt Harrison - 2017](/Books/Python-IllustratedGuidetoPython3.pdf)
 * [Python for Informatics by Charles Severance - 2011](/Books/Python-PythonforInformatics.pdf)
 
 
@@ -131,6 +151,7 @@
 ## Software Architecture
 
 * [Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks - 2010](/Books/SoftwareArchitecture-JustEnoughSoftwareArchitecture.pdf)
+* [Large-Scale Software Architecture: A Practical Guide Using UML - Jeff Garland & Richard Anthony - 2003](/Books/SoftwareArchitecture-LargeScaleSoftwareArchitecture.pdf)
 
 
 
@@ -140,6 +161,9 @@
 * [Antifragile Systems and Teams by Dave Zwieback - 2014](/Books/Systems-AntifragileSystemsandTeams.pdf)
 * [Field Guide to the Distributed Development Stack by Andrew Odewahn - 2014](/Books/Systems-DistributedDevelopmentStack.pdf)
 * [Everything is Distributed: Essays on Performance and Operations by Courtney Nash & Mike Loukides - 2014](/Books/Systems-EverythingisDistributed.pdf)
+* [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure by Nadia Eghbal](/Books/Systems-RoadsandBridgestheUnseenLaborBehindourDigitalInfrastructure.pdf)
+* [System Analysis and Design 9th ed by Gary Shelly & Harry Rosenblatt - 2012](/Books/Systems-SystemAnalysisandDesign.pdf)
+* [The Art of Systems Architecting 2nd ed by Mark Maier & Eberhardt Rechtin - 2000](/Books/Systems-TheArtOfSystemsArchitecting.pdf)
 
 
 
