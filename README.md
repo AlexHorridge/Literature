@@ -11,6 +11,8 @@
 *  [MapReduce - Quick Guide, tutorialspoint.com - 2015](/Tutorials/BigData-MapReduceQuickGuide.pdf) 
 
 
+
+
 ## Business
 
 * [Building an Optimized Business: What Business Leaders Need to Know about Operating at Speed and Scale](/Books/Business-BuildinganOptimizedBusiness.pdf)
@@ -18,9 +20,13 @@
 * [Startup Essentials](/Books/Business-StartupEssentials.pdf)
 
 
+
+
 ## Cloud
 
 * [Cloud Architecture Patterns by Bill Wilder - 2012](/Books/Cloud-CloudArchitecturePatterns.pdf)
+
+
 
 
 ## Design
@@ -32,6 +38,8 @@
 * [Experience Design](/Books/Design-ExperienceDesign.pdf)
 
 
+
+
 ## DevOps
 
 * [DevOps Hiring](/Books/DevOps-DevOpsHiring.pdf)
@@ -39,9 +47,13 @@
 * [5 Unsung Tools of DevOps](/Books/DevOps-UnsungToolsofDevOps.pdf)
 
 
+
+
 ## HTML
 
 *  [HTML5 Foundations 1st Edition by Matt West - 2013](/Books/HTML-HTML5Foundations.pdf) 
+
+
 
 
 ## JavaScript
@@ -59,9 +71,13 @@
 *  [JavaScript Unit Testing](/Books/JavaScript-JavaScriptUnitTesting.pdf) 
 
 
+
+
 ## Monitoring
 
 * [Lightweight Systems for Realtime Monitoring by Sam Newman - 2014](/Books/Monitoring-LightweightSystems.pdf)
+
+
 
 
 ## Programming - General
@@ -69,14 +85,20 @@
 *  [Working Effectively with Legacy Code by Michael C. Feathers - 2005](/Books/Programming-WorkingEffectivelywithLegacyCode.pdf) 
 
 
+
+
 ## Python
 
 * [Python for Informatics by Charles Severance - 2011](/Books/Python-PythonforInformatics.pdf)
 
 
+
+
 ## Regular Expressions
 
 *  [Introducing Regular Expressions by Michael Fitzgerald - 2012](/Books/[REGEXP][Introducing Regular Expressions].pdf) 
+
+
 
 
 ## Security
@@ -86,9 +108,13 @@
 *  [Cyberspace and Cybersecurity by George Kostopoulos - 2013](/Books/Security-CyberspaceandCybersecurity.pdf) 
 
 
+
+
 ## Software Architecture
 
 * [Just Enough Software Architecture: A Risk-Driven Approach by George Fairbanks - 2010](/Books/SoftwareArchitecture-JustEnoughSoftwareArchitecture.pdf)
+
+
 
 
 ## Web
