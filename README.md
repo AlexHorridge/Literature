@@ -29,6 +29,15 @@
 
 
 
+## Code Review
+
+* [Code Review Best Practices - Medium](/Articles/CodeReview-BestPractices.pdf)
+* [Code Reviews at Medium - Medium](/Articles/CodeReview-CodeReviewsatMedium.pdf)
+* [The Code Review Mindset - Medium](/Articles/CodeReview-TheCodeReviewMindset.pdf)
+
+
+
+
 ## Design
 
 * [Design Fundementals, Vol 2](/Books/Design-DesignFundamentalsVolume2.pdf)
@@ -64,11 +73,20 @@
 
 ### Scaling
 
-*  [Scalable JavaScript Application Architecture by Nicholas C. Zakas](/Presentations/[JAVASCRIPT][PRESENTATION][Scalable JavaScript Application Architecture].pdf) 
+*  [Scalable JavaScript Application Architecture by Nicholas C. Zakas](/Presentations/JavaScript-ScalableJavaScriptApplicationArchitecture.pdf) 
 
 ### Testing
 
 *  [JavaScript Unit Testing](/Books/JavaScript-JavaScriptUnitTesting.pdf) 
+
+
+
+
+## Microservices
+
+* [How we broke up our Monolithic Django Service into Microservices - Medium](/Articles/Microservices-DjangoMicroservices.pdf)
+* [Microservice Architecture and Design Patterns for Microservices - Medium](/Articles/Microservices-MicroserviceArchitectureandDesignPatterns.pdf)
+* [Microservice Architecture at Medium - Medium](/Articles/Microservices-MicroserviceArchitectureatMedium.pdf)
 
 
 
@@ -96,7 +114,7 @@
 
 ## Regular Expressions
 
-*  [Introducing Regular Expressions by Michael Fitzgerald - 2012](/Books/[REGEXP][Introducing Regular Expressions].pdf) 
+*  [Introducing Regular Expressions by Michael Fitzgerald - 2012](/Books/Regex-IntroducingRegularExpressions.pdf) 
 
 
 
@@ -117,6 +135,16 @@
 
 
 
+## Systems
+
+* [Antifragile Systems and Teams by Dave Zwieback - 2014](/Books/Systems-AntifragileSystemsandTeams.pdf)
+* [Field Guide to the Distributed Development Stack by Andrew Odewahn - 2014](/Books/Systems-DistributedDevelopmentStack.pdf)
+* [Everything is Distributed: Essays on Performance and Operations by Courtney Nash & Mike Loukides - 2014](/Books/Systems-EverythingisDistributed.pdf)
+
+
+
+
 ## Web
 
-*  [HTTP: The Definitive Guide by David Gourley - 2002](/Books/[WEB][HTTP - The Definitive Guide].pdf) 
+*  [HTTP: The Definitive Guide by David Gourley - 2002](/Books/Web-HTTPTheDefinitiveGuide.pdf) 
+*  [Web Page Size, Speed, and Performance by Terrence Dorsey - 2015](/Books/Web-WebpageSizeSpeedPerf.pdf)
